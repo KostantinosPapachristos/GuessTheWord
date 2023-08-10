@@ -12,5 +12,8 @@
 
 ![image](https://github.com/KostantinosPapachristos/GuessTheWord/assets/141930682/cfc12e97-be67-4a23-8cec-e3ad6bf7a556)
 
-
+##### The result on the game is that when you guess the game within the tries that have been given to you, you win.
+-----------------------------------------------------------------------------------------------------------------------------
 ![image](https://github.com/KostantinosPapachristos/GuessTheWord/assets/141930682/b891a9b4-e2e3-49f8-a126-d977b13d90c7)
+
+##### When you dont guess the word within the 10 tries you lose and its GAME OVER.
